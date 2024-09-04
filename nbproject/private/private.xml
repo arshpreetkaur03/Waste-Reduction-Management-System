@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/surplusItem.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/addInventory.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/css/styles02.css</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/ClaimPOJO.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/Consumer.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/css/styles1.css</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/test/ClaimDAOTest.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/InventoryItem.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/ClaimInformation.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/register.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/OrganisationServlet.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/transferObject/UserDTO.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/FeedbackServlet.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/ConsumerPOJO.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/CharityServlet.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/updateInventory.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/css/indexStyle.css</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/InventoryItem.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/Subscription.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/SubscriptionServlet.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/ConsumerServlet.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/login.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/SubscriptionDAO.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/css/styles3.css</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/feedbackSuccess.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/InventoryAction.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/SubscriptionPOJO.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/InventoryDAO.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/ConsumerDAO.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/css/subscription.css</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/deleteInventory.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/InventoryServlet.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/feedbackFail.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/src/java/ClaimDAO.java</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/Failed.jsp</file>
+            <file>file:/D:/level3/NetbeanProject/WebApplication1/web/feedback.html</file>
+        </group>
+    </open-files>
+</project-private>
